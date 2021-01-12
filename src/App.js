@@ -1,10 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import BuyThisList from "./BuyThisList";
 
 function App() {
-  return (
-
-  );
+    return <BuyThisList />;
 }
 
 export default App;
